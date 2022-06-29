@@ -1,5 +1,5 @@
 /*
-*	Created by: Thomas Cellitti
+*	Created by: thom0075
 *	On: 27/10/2020
 *	Language: C++
 *	Solve math problems with Cramer`s method
